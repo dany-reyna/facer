@@ -15,7 +15,7 @@ scikit-image = "*"
 scikit-learn = "*"
 ipython = "*"
 dlib = "*"
-opencv-contrib-python = "==3.4.5.20"
+opencv-contrib-python = "==3.4.7.28"
 
 [requires]
 python_version = "3.7"
